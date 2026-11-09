@@ -1,0 +1,7 @@
+group,mean_abs_shap,relative_importance
+calendar,44.675663,0.30909508
+precipitation,43.467297,0.30073482
+operation,24.804157,0.17161117
+local_storage,13.614635,0.09419484
+natural_flow,9.339445,0.064616315
+evapotranspiration,8.635763,0.059747785

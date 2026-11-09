@@ -1,0 +1,14 @@
+feature,shap_drought
+pr,37.47329
+qbal,30.937113
+month_cos,28.11437
+is_dry,7.2752604
+Vol_Lag1,6.826717
+pr_Lag1,6.794416
+month_sin,6.0825424
+eto,5.154666
+q_Lag1,4.8453207
+Vol,3.712598
+q,2.3905766
+eto_Lag1,1.9116286
+SRI12,1.6876359

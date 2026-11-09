@@ -1,0 +1,24 @@
+{
+  "title": "ml-drought-modeling-studies: code for forecasting the storage of the Cantareira Water Supply System",
+  "upload_type": "software",
+  "description": "<p>Code for the forecasting paper on the total storage of the Cantareira Water Supply System (São Paulo Metropolitan Region, Brazil), 3 and 12 months ahead, with XGBoost and LSTM models and their interpretation (SHAP, saliency, perturbation). Reproduces every figure and table of the paper. Input data: HydroShare (see related identifiers). Developed at LabSid, Escola Politécnica, Universidade de São Paulo.</p>",
+  "version": "1.0.0",
+  "language": "eng",
+  "license": "MIT",
+  "creators": [
+    {"name": "Gonsalez, Veronica Lima", "affiliation": "Department of Hydraulic and Environmental Engineering, Escola Politécnica, Universidade de São Paulo", "orcid": "0000-0002-8159-4255"},
+    {"name": "Perez, Raphael Ferreira", "affiliation": "Department of Hydraulic and Environmental Engineering, Escola Politécnica, Universidade de São Paulo; Fundação Centro Tecnológico de Hidráulica (FCTH)", "orcid": "0000-0001-5674-6571"}
+  ],
+  "contributors": [
+    {"name": "Corzo-Pérez, Gerald Augusto", "type": "Supervisor", "affiliation": "IHE Delft Institute for Water Education", "orcid": "0000-0002-2773-7817"},
+    {"name": "Bonnecarrère, Joaquin Ignacio", "type": "Supervisor", "affiliation": "Department of Hydraulic and Environmental Engineering, Escola Politécnica, Universidade de São Paulo", "orcid": "0000-0002-3852-7444"},
+    {"name": "Hossoda, Dario Hachisu", "type": "ProjectMember", "affiliation": "Department of Hydraulic and Environmental Engineering, Escola Politécnica, Universidade de São Paulo", "orcid": "0000-0001-7618-2857"},
+    {"name": "LabSid, Escola Politécnica, Universidade de São Paulo", "type": "ResearchGroup"}
+  ],
+  "keywords": ["Cantareira", "São Paulo", "Brazil", "reservoir storage", "water supply", "drought", "forecasting", "machine learning", "XGBoost", "LSTM", "explainable AI"],
+  "communities": [{"identifier": "usp"}],
+  "related_identifiers": [
+    {"identifier": "https://www.hydroshare.org/resource/4d705def5c5f4fd6b46c29dde302e846/", "relation": "isSupplementedBy", "resource_type": "dataset", "scheme": "url"},
+    {"identifier": "https://www.hydroshare.org/resource/4141d4f21beb415b8099e967f743f633/", "relation": "isSupplementedBy", "resource_type": "dataset", "scheme": "url"}
+  ]
+}

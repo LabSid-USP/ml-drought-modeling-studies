@@ -1,0 +1,26 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Data downloaded from HydroShare (scripts/download_data.py)
+Previsao/Dados/
+Previsao/Mapa/dados/
+build/
+
+# Generated outputs: only the article_*.csv read by the figures are versioned
+Previsao/Outputs/**
+!Previsao/Outputs/**/
+!Previsao/Outputs/**/article_*.csv
+Previsao/Mapa/saidas/
+
+# Export marker from the private repository
+.public_export
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

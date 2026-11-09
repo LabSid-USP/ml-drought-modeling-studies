@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, together with the forecasting paper."
+title: "ml-drought-modeling-studies: code for forecasting the storage of the Cantareira Water Supply System"
+type: software
+version: 1.0.0
+date-released: "2026-11-09"
+license: MIT
+repository-code: "https://github.com/LabSid-USP/ml-drought-modeling-studies"
+authors:
+  - family-names: "Gonsalez"
+    given-names: "Veronica Lima"
+    orcid: "https://orcid.org/0000-0002-8159-4255"
+    affiliation: "Department of Hydraulic and Environmental Engineering, Escola Politécnica, Universidade de São Paulo"
+  - family-names: "Perez"
+    given-names: "Raphael Ferreira"
+    orcid: "https://orcid.org/0000-0001-5674-6571"
+    affiliation: "Department of Hydraulic and Environmental Engineering, Escola Politécnica, Universidade de São Paulo; Fundação Centro Tecnológico de Hidráulica (FCTH)"
+keywords:
+  - Cantareira
+  - São Paulo
+  - Brazil
+  - reservoir storage
+  - drought
+  - forecasting
+  - XGBoost
+  - LSTM
+  - explainable AI
