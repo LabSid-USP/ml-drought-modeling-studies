@@ -12,8 +12,7 @@
   "contributors": [
     {"name": "Corzo-Pérez, Gerald Augusto", "type": "Supervisor", "affiliation": "IHE Delft Institute for Water Education", "orcid": "0000-0002-2773-7817"},
     {"name": "Bonnecarrère, Joaquin Ignacio", "type": "Supervisor", "affiliation": "Department of Hydraulic and Environmental Engineering, Escola Politécnica, Universidade de São Paulo", "orcid": "0000-0002-3852-7444"},
-    {"name": "Hossoda, Dario Hachisu", "type": "ProjectMember", "affiliation": "Department of Hydraulic and Environmental Engineering, Escola Politécnica, Universidade de São Paulo", "orcid": "0000-0001-7618-2857"},
-    {"name": "LabSid, Escola Politécnica, Universidade de São Paulo", "type": "ResearchGroup"}
+    {"name": "Hossoda, Dário Hachisu", "type": "ProjectMember", "affiliation": "Department of Hydraulic and Environmental Engineering, Escola Politécnica, Universidade de São Paulo", "orcid": "0000-0001-7618-2857"}
   ],
   "keywords": ["Cantareira", "São Paulo", "Brazil", "reservoir storage", "water supply", "drought", "forecasting", "machine learning", "XGBoost", "LSTM", "explainable AI"],
   "communities": [{"identifier": "usp"}],

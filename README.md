@@ -117,7 +117,7 @@ Code: MIT (`LICENSE`). Model outputs in `Previsao/Outputs/`: CC BY 4.0
 
 Contributors: Gerald Augusto Corzo-Pérez ([0000-0002-2773-7817](https://orcid.org/0000-0002-2773-7817)),
 Joaquin Ignacio Bonnecarrère ([0000-0002-3852-7444](https://orcid.org/0000-0002-3852-7444)),
-Dario Hachisu Hossoda ([0000-0001-7618-2857](https://orcid.org/0000-0001-7618-2857)).
+Dário Hachisu Hossoda ([0000-0001-7618-2857](https://orcid.org/0000-0001-7618-2857)).
 
 ## Acknowledgements
 
