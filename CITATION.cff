@@ -4,6 +4,14 @@ title: "ml-drought-modeling-studies: code for forecasting the storage of the Can
 type: software
 version: 1.0.0
 date-released: "2026-11-09"
+doi: "10.5281/zenodo.24085809"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24085809"
+    description: "Zenodo DOI of version 1.0.0"
+  - type: doi
+    value: "10.5281/zenodo.24085808"
+    description: "Zenodo concept DOI (all versions)"
 license: MIT
 repository-code: "https://github.com/LabSid-USP/ml-drought-modeling-studies"
 authors:

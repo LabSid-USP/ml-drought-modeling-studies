@@ -1,5 +1,7 @@
 # ml-drought-modeling-studies
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24085808.svg)](https://doi.org/10.5281/zenodo.24085808)
+
 This repository has the code for the machine-learning studies of drought and
 water supply in the São Paulo Metropolitan Region (Brazil), developed at LabSid,
 Escola Politécnica, Universidade de São Paulo.
@@ -93,8 +95,15 @@ and terms of every file.
 
 ## How to cite
 
-Please cite the paper (reference to be added on publication) and this software:
-see `CITATION.cff` or the Zenodo record of this repository.
+Please cite the paper (reference to be added on publication) and this software.
+For release v1.0.0, the version used in the forecasting paper:
+
+> Gonsalez VL, Perez RF (2026) ml-drought-modeling-studies: code for forecasting
+> the storage of the Cantareira Water Supply System (v1.0.0). Zenodo.
+> https://doi.org/10.5281/zenodo.24085809
+
+The concept DOI https://doi.org/10.5281/zenodo.24085808 always resolves to the
+latest version. See also `CITATION.cff`.
 
 ## Licence
 
